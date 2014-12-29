@@ -8,7 +8,7 @@ The Fibonacci sequence is a sequence of numbers where each number is the sum of 
 
 <div style="text-align:center" markdown="1">
 
-![Fibonacci](fibonacci.png)
+<img src='fibonacci.png'>
 
 </div>
 
