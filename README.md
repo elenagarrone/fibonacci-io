@@ -26,3 +26,12 @@ Change into the directory:
 ```shell
 $ cd fibonacci-io
 ```
+Install IO following the instructions
+<a href='http://en.wikibooks.org/wiki/Io_Programming/Beginner%27s_Guide/Getting_Started#Install'>HERE</a>.
+
+If you want you can also read more about this language at this link: http://iolanguage.org/
+
+Run the test file:
+```shell
+$ io fibonacci_test.io
+```
