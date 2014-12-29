@@ -6,7 +6,7 @@ Specification:
 -------------
 The Fibonacci sequence is a sequence of numbers where each number is the sum of the previous two numbers.
 
-<section style='text-align: center;'><img src='http://mathworld.wolfram.com/images/eps-gif/FibonacciShallowDiags_1000.gif'></section>
+<div style='text-align: center;'><img src='http://mathworld.wolfram.com/images/eps-gif/FibonacciShallowDiags_1000.gif'></div>
 
 Technologies:
 -------------
